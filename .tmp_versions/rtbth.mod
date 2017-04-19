@@ -1,0 +1,2 @@
+/home/geet/Desktop/rtbth-3.9.3/rtbth.ko
+/home/geet/Desktop/rtbth-3.9.3/rtbth_core_main.o /home/geet/Desktop/rtbth-3.9.3/rtbth_core_init.o /home/geet/Desktop/rtbth-3.9.3/rtbth_core_pci.o /home/geet/Desktop/rtbth-3.9.3/rtbth_core_bluez.o /home/geet/Desktop/rtbth-3.9.3/rtbth_core_us.o /home/geet/Desktop/rtbth-3.9.3/rtbth_hlpr_hw.o /home/geet/Desktop/rtbth-3.9.3/rtbth_hlpr_dbg.o /home/geet/Desktop/rtbth-3.9.3/rtbth_hlpr_linux.o

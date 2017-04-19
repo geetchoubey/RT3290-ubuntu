@@ -1,0 +1,1 @@
+cmd_/home/geet/Desktop/rtbth-3.9.3/rtbth.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/geet/Desktop/rtbth-3.9.3/rtbth.ko /home/geet/Desktop/rtbth-3.9.3/rtbth.o /home/geet/Desktop/rtbth-3.9.3/rtbth.mod.o

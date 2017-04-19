@@ -1,0 +1,4 @@
+cd rtbth-3.9.3
+make
+sudo make install
+sudo modprobe rtbth
